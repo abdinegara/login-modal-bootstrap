@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- Login Modal -->
+<title>Login dengan Moda Bootstrap</title>
 <link rel="stylesheet" href="css/bootstrap.css">
 <script src="js/jquery-1.11.1.min.js"></script>
 <script src="js/bootstrap.js"></script>
@@ -19,4 +19,3 @@
 				</div>
 			</div>
 		  </div>
-<!-- End Login Modal -->
